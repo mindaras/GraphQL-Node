@@ -1,0 +1,44 @@
+{
+  "pet": [
+    {
+      "id": "9EC0Jmzh3v1ozybQIbCBr",
+      "createdAt": 1578139844791,
+      "name": "Jirdy",
+      "type": "Dog",
+      "user": "GCy_MYQqmYx8fNL3vIwK6"
+    },
+    {
+      "id": "O8URpjJsVNg-eCm7Ae58Z",
+      "createdAt": 1578139866107,
+      "name": "Lissy",
+      "type": "Cat",
+      "user": "GCy_MYQqmYx8fNL3vIwK6"
+    },
+    {
+      "id": "Zots80o54rEcBBUa-MFn-",
+      "createdAt": 1578139875376,
+      "name": "Henry",
+      "type": "Dog",
+      "user": "GCy_MYQqmYx8fNL3vIwK6"
+    },
+    {
+      "id": "4nTJGvKhGxcEX9_cr0_vC",
+      "createdAt": 1578139881681,
+      "name": "Charlie",
+      "type": "Dog",
+      "user": "GCy_MYQqmYx8fNL3vIwK6"
+    },
+    {
+      "id": "9RAp76hqm3_kOEJAli9PU",
+      "createdAt": 1578139887838,
+      "name": "Ottis",
+      "type": "Dog",
+      "user": "GCy_MYQqmYx8fNL3vIwK6"
+    }
+  ],
+  "user": {
+    "id": "GCy_MYQqmYx8fNL3vIwK6",
+    "createdAt": 1578139557710,
+    "username": "Jimmy"
+  }
+}
